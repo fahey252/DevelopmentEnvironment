@@ -21,3 +21,4 @@ git remote set-url origin --push --add <another remote url>
   * SublimeLinter (eslint)
   * EditorConfig
   * GitGutter
+  * Git
