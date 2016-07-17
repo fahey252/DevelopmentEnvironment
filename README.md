@@ -19,3 +19,5 @@ git remote set-url origin --push --add <another remote url>
   * Markdown Preview
   * HTML/CSS/JS Prettify
   * SublimeLinter (eslint)
+  * EditorConfig
+  * GitGutter
