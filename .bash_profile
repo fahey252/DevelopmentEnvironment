@@ -27,3 +27,7 @@ alias setJdk8='export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)'
 # sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
 export NVM_DIR="/Users/faheyc2/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
+
+# removes management/security profiles on the machine
+sudo profiles -D
+sudo jamf policy
