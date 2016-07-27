@@ -29,5 +29,5 @@ export NVM_DIR="/Users/faheyc2/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
 
 # removes management/security profiles on the machine
-sudo profiles -D
-sudo jamf policy
+profiles -D
+jamf policy
