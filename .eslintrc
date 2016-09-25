@@ -1,4 +1,5 @@
 {
+    "extends": "eslint:recommended",
     "rules": {
         "indent": [
                 0,
@@ -23,6 +24,5 @@
     "env": {
         "browser": true,
         "node": true
-    },
-    "extends": "eslint:recommended"
+    }
 }
