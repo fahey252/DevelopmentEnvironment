@@ -1,6 +1,9 @@
 # keeps the prompt lean
 export PS1='$ '
 
+# node development
+export NODE_ENV=DEV
+
 # java development
 export JAVA_HOME=$(/usr/libexec/java_home)
 export PATH=$JAVA_HOME/bin:$PATH

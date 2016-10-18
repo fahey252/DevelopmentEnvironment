@@ -14,7 +14,7 @@ git remote set-url origin --push --add <a remote url>
 git remote set-url origin --push --add <another remote url>
 ```
 
-##Sublime Text Plugins
+## Sublime Text Plugins
   * Markdown Editing
   * Markdown Preview
   * HTML/CSS/JS Prettify
@@ -22,3 +22,13 @@ git remote set-url origin --push --add <another remote url>
   * EditorConfig
   * GitGutter
   * Git
+
+## NPM Packages
+  * node-inspector
+
+## Helpful Commands
+  * `node-debug app.js` - uses __node-inspector__ for debugging 
+
+
+
+
