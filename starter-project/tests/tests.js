@@ -1,4 +1,6 @@
 // http://mochajs.org/
+// https://nodejs.org/api/assert.html
+// use chai for more advanced assertions - http://chaijs.com/
 
 const assert = require('assert'),
 	mocha = require('mocha'),

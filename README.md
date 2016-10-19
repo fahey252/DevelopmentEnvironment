@@ -14,17 +14,15 @@ git remote set-url origin --push --add <a remote url>
 git remote set-url origin --push --add <another remote url>
 ```
 
-## Sublime Text Plugins
+## IDE Editor Text Plugins
   * Markdown Editing
   * Markdown Preview
   * HTML/CSS/JS Prettify
+  * ESLint
   * SublimeLinter (eslint)
   * EditorConfig
   * GitGutter
   * Git
-
-## NPM Packages
-  * node-inspector
 
 ## Helpful Commands
   * `node-debug app.js` - uses __node-inspector__ for debugging. Otherwise use Visual Studio Code for Node debugging
