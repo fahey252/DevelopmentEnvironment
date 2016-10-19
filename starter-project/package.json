@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha ./tests/test.js --nolazy",
+    "test-debug": "mocha ./tests/tests.js --nolazy --debug-brk=5858"
   },
   "repository": {
     "type": "git",
@@ -30,6 +31,6 @@
     "gulp-nodemon": "^2.2.0",
     "gulp-size": "^2.1.0",
     "run-sequence": "^1.2.2",
-    "node-inspector": "^0.12.8"
+    "mocha": "^3.1.2"
   }
 }

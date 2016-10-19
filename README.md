@@ -27,7 +27,7 @@ git remote set-url origin --push --add <another remote url>
   * node-inspector
 
 ## Helpful Commands
-  * `node-debug app.js` - uses __node-inspector__ for debugging 
+  * `node-debug app.js` - uses __node-inspector__ for debugging. Otherwise use Visual Studio Code for Node debugging
 
 
 
