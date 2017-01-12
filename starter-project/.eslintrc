@@ -5,24 +5,24 @@
     },
     "rules": {
         "indent": [
-                0,
-                "tab"
+            0,
+            "tab"
         ],
         "quotes": [
-                2,
-                "single"
+            2,
+            "single"
         ],
         "linebreak-style": [
-                0,
-                "unix"
+            0,
+            "unix"
         ],
         "semi": [
-                2,
-                "always"
+            2,
+            "always"
         ],
         "no-console": 0,
         "no-mixed-spaces-and-tabs": 0,
-        "no-warning-comments":  2
+        "no-warning-comments": 1
     },
     "env": {
         "browser": true,
