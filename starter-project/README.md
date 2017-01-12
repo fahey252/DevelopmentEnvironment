@@ -8,6 +8,10 @@ Project Description
   $ npm install
   $ gulp
 
+  # optional - when using environment variables
+  $ cp config/.env .
+  # then set your environment variables
+
   # optional for when using mongo
   $ mkdir local-database
   $ mongod --dbpath=local-database

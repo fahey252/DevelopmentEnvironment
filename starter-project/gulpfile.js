@@ -1,6 +1,6 @@
 var gulp = require('gulp'),
     browserSync = require('browser-sync'),
-    $ = require('gulp-load-plugins');
+    $ = require('gulp-load-plugins')();
 
 gulp.task('lint', () =>
     gulp.src('app/scripts/**/*.js')
